@@ -1,0 +1,20 @@
+User Personas
+1.RADHI 
+	age:26
+	occupation:Yoga Instructor
+	description:Nature Lover,appriciates indoor-outdoor living,minimalist
+
+2.MIKEY
+	age:24
+	occupation:Graphic designer
+	description:Lives with 3 roomates, looking for effective art supply storage
+
+3.VIDHYA
+	age:40
+	occupation:Home-maker
+	description:would like a kid friendly environment,peaceful
+
+4.AAMIR 
+	age:36
+	occupation:Engineer
+	description:lives in a 2-storey house with his family and dog.would like lawn furniture
