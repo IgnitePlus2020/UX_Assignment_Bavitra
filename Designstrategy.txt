@@ -1,0 +1,10 @@
+Design Strategies
+
+1.Make the brand noticeable with a logo
+2.Navigation through the website should be easy
+3.The user should be able to easily understand the website.
+4.Do not complicate the design.
+5.The homepage should be very informative.
+6.Should be customizable for the user.
+7.Should have constant promotion. brand deals,discounts etc
+8.The user should be able to report any problem and provided with appropriate solutions.
